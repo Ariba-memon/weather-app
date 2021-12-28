@@ -1,0 +1,16 @@
+body{
+    background-image: url(weather-images.jpg);
+ background-repeat: space;
+    
+}
+#cityName{
+    width: 300px !important;
+}
+#form-group{
+    color: aqua !important;
+   
+}
+#submit{
+    color: yellow;
+    background-color: blue;
+}
